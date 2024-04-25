@@ -1,4 +1,8 @@
+package application;
+
 import java.util.Random;
+
+import entities.BubbleSort;
 
 public class AppBubbleSort {
     public static void main(String[] args) throws Exception {

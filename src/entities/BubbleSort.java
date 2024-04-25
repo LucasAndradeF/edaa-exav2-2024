@@ -1,3 +1,5 @@
+package entities;
+
 public class BubbleSort {
     private int[] array;
 
